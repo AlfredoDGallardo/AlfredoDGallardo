@@ -11,7 +11,7 @@
 <h2>👨‍💻 Information Technology Projects</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](Hyperlink)
+  - [osTicket: Prerequisites and Installation](https://github.com/AlfredoDGallardo/osTicket-Prereqs)
   - [osTicket: Post-Installation Configuration](HyperLink)
   - [osTicket: Ticket Lifecycle Examples](Hyperlink)
   
