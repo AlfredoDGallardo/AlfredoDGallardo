@@ -16,5 +16,5 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AlfredoDGallardo/osTicket-TicketExamples)
   
 - <b>Microsoft Azure</b>
- 
+  - [Creating Resource Group and Deploying Virtual Machine](Hyperlink)
  
