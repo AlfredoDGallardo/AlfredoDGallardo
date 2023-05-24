@@ -3,7 +3,7 @@
 
 <h2>🤳 Connect with Me 
  
- -  <b>[LinkedIn](https://www.linkedin.com//)
+ -  <b>[LinkedIn](https://www.linkedin.com/in/alfredodgallardo/)
  <br />
  <br />
 
