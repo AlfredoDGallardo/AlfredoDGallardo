@@ -6,7 +6,8 @@
  -  <b>[LinkedIn](https://www.linkedin.com/in/alfredodgallardo/)
  <br />
  <br />
-
+ 
+<h2>👨‍💻 Data Analytics Projects</h2>
 
 <h2>👨‍💻 Information Technology Projects</h2>
 
