@@ -1,5 +1,9 @@
+# 👋 Hi, I'm Alfredo Gallardo
 
-<h2>Hello I'm Alfredo, an IT and Cyber Security Enthusiast and Aspiring IT Professional</h2>
+I'm a data-driven Business Process Analyst with a passion for turning raw data into actionable insights. I specialize in reporting, automation, and process optimization using tools like Excel, Power BI, and Salesforce.
+
+This GitHub profile serves as my portfolio, showcasing real-world reporting projects I've created in roles related to education, operations, and compliance. Whether it’s tracking student mileage to clinical sites or analyzing enrollment trends by state, I use data to support better decision-making and operational efficiency.
+
 
 <h2>🤳 Connect with Me 
  
