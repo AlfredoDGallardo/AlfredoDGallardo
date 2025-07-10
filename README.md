@@ -2,8 +2,7 @@
 
 I'm a data-driven Business Process Analyst with a passion for turning raw data into actionable insights. I specialize in reporting, automation, and process optimization using tools like Excel, Power BI, and Salesforce.
 
-This GitHub profile serves as my portfolio, showcasing real-world reporting projects I've created in roles related to education, operations, and compliance. Whether it’s tracking student mileage to clinical sites or analyzing enrollment trends by state, I use data to support better decision-making and operational efficiency.
-
+This GitHub portfolio showcases practical examples of my work—from data visualizations and reporting tools to process documentation and automation projects. Whether optimizing workflows or building dashboards, I bring clarity and structure to complex business challenges.
 
 <h2>🤳 Connect with Me 
  
