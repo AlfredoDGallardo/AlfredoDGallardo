@@ -9,6 +9,8 @@
  
 <h2>📈📊🔍 Data Analytics Projects</h2>
 
+- [Clinical Placement Mileage Report](https://github.com/AlfredoDGallardo/Clinical-Placement-Mileage-Report)
+
 <h2>🖥️👨‍💻💻 Information Technology Projects</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
