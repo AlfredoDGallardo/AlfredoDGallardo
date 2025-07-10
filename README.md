@@ -4,11 +4,18 @@ I'm a data-driven Business Process Analyst with a passion for turning raw data i
 
 This GitHub portfolio showcases practical examples of my work—from data visualizations and reporting tools to process documentation and automation projects. Whether optimizing workflows or building dashboards, I bring clarity and structure to complex business challenges.
 
-<h2>🤳 Connect with Me 
- 
- -  <b>[LinkedIn](https://www.linkedin.com/in/alfredodgallardo/)
- <br />
- <br />
+## 🔍 What You’ll Find Here
+
+- 📊 **Data Reports** – KPI tracking, mileage calculations, and performance summaries  
+- 📈 **Dashboards & Visuals** – Clean, actionable visualizations using real and sample data  
+- ⚙️ **Process Tools** – Reporting templates, workflow examples, and system documentation  
+- ☁️ **Tech Projects** – Azure virtual machine setups, ticketing systems, and automation
+
+---
+
+## 📫 Let’s Connect
+- 💼 [LinkedIn](https://linkedin.com/in/AlfredoDGallardo)  
+- 📬 AlfredoDGallardo@gmail.com
  
 <h2>📈📊🔍 Data Analytics Projects</h2>
 
