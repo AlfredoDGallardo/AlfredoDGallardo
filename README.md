@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alfredo Gallardo
+# 👋 Hi, I'm Alfredo Derain Gallardo
 
 I'm a data-driven Business Process Analyst with a passion for turning raw data into actionable insights. I specialize in reporting, automation, and process optimization using tools like Excel, Power BI, and Salesforce.
 
