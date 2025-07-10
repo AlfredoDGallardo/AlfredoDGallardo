@@ -4,6 +4,8 @@ I'm a data-driven Business Process Analyst with a passion for turning raw data i
 
 This GitHub portfolio showcases practical examples of my work—from data visualizations and reporting tools to process documentation and automation projects. Whether optimizing workflows or building dashboards, I bring clarity and structure to complex business challenges.
 
+---
+
 ## 🔍 What You’ll Find Here
 
 - 📊 **Data Reports** – KPI tracking, mileage calculations, and performance summaries  
@@ -14,20 +16,25 @@ This GitHub portfolio showcases practical examples of my work—from data visual
 ---
 
 ## 📫 Let’s Connect
+
 - 💼 [LinkedIn](https://linkedin.com/in/AlfredoDGallardo)  
-- 📬 AlfredoDGallardo@gmail.com
- 
-<h2>📈📊🔍 Data Analytics Projects</h2>
+- 📬 AlfredoDGallardo@gmail.com  
 
-- [Clinical Placement Mileage Report](https://github.com/AlfredoDGallardo/Clinical-Placement-Mileage-Report)
+---
 
-<h2>🖥️👨‍💻💻 Information Technology Projects</h2>
+## 📈📊🔍 Data Analytics Projects
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/AlfredoDGallardo/osTicket-Prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/AlfredoDGallardo/osTicket-configurations)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/AlfredoDGallardo/osTicket-TicketExamples)
-  
-- <b>Microsoft Azure</b>
-  - [Creating Resource Group and Deploying Virtual Machine](https://github.com/AlfredoDGallardo/MIcrosoftAzure-ResourceGroupVirtualMachine)
- 
+- [Clinical Placement Mileage Report](https://github.com/AlfredoDGallardo/Clinical-Placement-Mileage-Report)  
+  Excel-based report to track and analyze mileage between students and assigned clinical locations.
+
+---
+
+## 🖥️👨‍💻💻 Information Technology Projects
+
+### **osTicket (Help Desk Ticketing System)**
+- [Prerequisites and Installation](https://github.com/AlfredoDGallardo/osTicket-Prereqs)  
+- [Post-Installation Configuration](https://github.com/AlfredoDGallardo/osTicket-configurations)  
+- [Ticket Lifecycle Examples](https://github.com/AlfredoDGallardo/osTicket-TicketExamples)  
+
+### **Microsoft Azure**
+- [Creating Resource Group and Deploying Virtual Machine](https://github.com/AlfredoDGallardo/MIcrosoftAzure-ResourceGroupVirtualMachine)  
