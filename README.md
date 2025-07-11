@@ -33,6 +33,8 @@ This GitHub portfolio showcases practical examples of my work—from data visual
 - [Mileage To Clinicals Report](https://github.com/AlfredoDGallardo/Mileage-To-Clinicals/tree/main)  
   Excel-based clinical placement analysis that tracks actual vs. optimal placement distance, flags students traveling over 50 miles, and visualizes placement trends across academic terms.
 
+- [Hub Mileage Comparison](https://github.com/AlfredoDGallardo/Hub-Mileage-Comparison/tree/main)  
+  Excel-based analysis and dashboard that compares clinical hub development, student population growth, and travel distance trends over a one-year period.
 
 ---
 
