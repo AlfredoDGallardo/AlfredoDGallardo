@@ -30,6 +30,10 @@ This GitHub portfolio showcases practical examples of my work—from data visual
 - [Pre-Licensure Enrollment By State](https://github.com/AlfredoDGallardo/PreLicensure-Enrollment-by-State/blob/main/README.md)   
   Excel-based dashboard and report that visualizes enrollment trends and clinical participation across BSN Online and Campus programs across the country.
 
+- [Mileage To Clinicals Report](https://github.com/AlfredoDGallardo/Mileage-To-Clinicals/tree/main)  
+  Excel-based clinical placement analysis that tracks actual vs. optimal placement distance, flags students traveling over 50 miles, and visualizes placement trends across academic terms.
+
+
 ---
 
 ## 🖥️👨‍💻💻 Information Technology Projects
